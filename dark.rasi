@@ -28,7 +28,7 @@
     alternate-urgent-background: var(lightbg);
     alternate-urgent-foreground: var(red);
 
-    /* ausgewähltes Programm in Blau */
+    /* selected programs in blue */
     selected-normal-background:  var(blue);
     selected-normal-foreground:  var(background);
 
